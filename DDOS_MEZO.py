@@ -39,8 +39,8 @@ def logo():
         logoo = pyfiglet.figlet_format("DDOS IRAQ")
         print(bcolors.FAIL+logoo)
         print('')
-        print(bcolors.WARNING + '               .:.: Developer: TAKEMICHI ~ @Q_2_M :.:.')
-        print(bcolors.WARNING + '            .:.:          ♡Free♡Palestine♡          :.:..')
+        print(bcolors.WARNING + '               .:.: Developer: TAKEMICHI ~ @black1_hat :.:.')
+        print(bcolors.WARNING + '            .:.:          ♡Free♡Mezo♡Palestine♡          :.:..')
         print(bcolors.WARNING + '         .:.:               Version:'+version+'              :.:.')
         print('')
 
