@@ -1,8 +1,8 @@
-# DDOS_IRAQ
+# DDOS_MEZO
 
-$ git clone https://github.com/4gwd/DDOS_IRAQ
+$ git clone https://github.com/noora-bot/DDOS-MEZO
 
-$ cd DDOS_IRAQ
+$ cd DDOS_MEZO
 
 $ pip install requests
 
@@ -22,4 +22,4 @@ $ pip install time
 
 $ pip install pyfiglet
 
-$ python DDOS_IRAQ.py
+$ python DDOS_MEZO.py
