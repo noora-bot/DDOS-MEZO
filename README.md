@@ -2,7 +2,7 @@
 
 $ git clone https://github.com/noora-bot/DDOS-MEZO
 
-$ cd DDOS_MEZO
+$ cd DDOS-MEZO
 
 $ pip install requests
 
@@ -21,5 +21,13 @@ $ pip install fake_headers
 $ pip install time
 
 $ pip install pyfiglet
+
+$ pip install Fore
+
+$ pip install Style
+
+$ pip install colorama
+
+$ pip install Back
 
 $ python DDOS_MEZO.py
